@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-<h3>I'm a Full stack developer, MERN and PERN stack passionate in web and software development with the ability for quick learning of any new technology and skills.</h3>
+<h3>Full stack developer, MERN and PERN stack passionate in web and software development with the ability for quick learning of any new technology and skills.</h3>
 
 <h2>Skills</h2>
 
