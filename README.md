@@ -3,8 +3,9 @@
 
 ## 🚀 About Me
 
-I'm a full stack developer...
+<h2>I'm a Full stack developer, MERN and PERN stack passionate in web and software development with the ability for quick learning of any new technology and skills.</h2>
 
+<h3>Skills</h3>
 
 <div>
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
